@@ -28,5 +28,5 @@ and then computes the minimum distance between these segments.
    - Optional: To specify a particular generator (e.g., Visual Studio 2022), you can add: cmake -G "Visual Studio 17 2022" ..
 
 6. **Build the project:**
-   - Open the generated solution file Geo3DConsole.sln [Windows]
+   - Open the generated solution file Geo3DConsole.sln and set Geo3DConsole as Startup Project [Windows]
    - make - [Linux]
