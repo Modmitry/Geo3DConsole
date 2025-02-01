@@ -1,0 +1,36 @@
+# Ignore build directories
+/build/
+out/
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore compiled object files, libraries, and executables
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+
+# Visual Studio specific files (if using Visual Studio)
+*.sln
+*.vcxproj*
+*.vcproj*
+.vs/
+
+# Code editor and OS generated files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Other temporary or backup files
+*~
